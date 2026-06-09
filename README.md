@@ -1,9 +1,9 @@
-# Em cconstrução
+# Styled Components
 
 **Desenvolvido por:** Rafael Albino Ribeiro
 
 ## 🚀 Tecnologias Utilizadas
 * React
 * JavaScript
-* CSS Modules (`styles.module.css`)
+* Styled Components
 * Vite
